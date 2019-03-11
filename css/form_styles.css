@@ -1,0 +1,53 @@
+#container {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	padding: 20px 0;
+	text-align: center;
+	position: relative;
+}
+
+#contactText {
+	display: block;
+	width: 100vw;
+	text-align: center;
+	font-size: 1em;
+	color: black;
+	padding: 10px;
+	font-family: "Roboto Slab";
+	font-weight: bold;
+}
+
+#mapContainer {
+	display: inline-block;
+	text-align: center;
+	width: 400px;
+	height: 430px;
+	padding-right: 5%;
+	padding-bottom: 10px;
+}
+
+#mapText {
+	padding-bottom: 10px;
+}
+
+#map {
+	width: 400px;
+	height: 350px;
+}
+
+form {
+	display: inline-block;
+	width: 475px;
+	height: 500px;
+	text-align: left;
+}
+
+#important {
+	color: red;
+	font-weight: bold;
+}
+
+form p {
+	padding: 10px 0 10px 0;
+}
